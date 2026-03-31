@@ -1,134 +1,134 @@
 [
   {
     "id": "1",
-    "title": "FNAE HTML5",
-    "thumbnail": "https://picsum.photos/seed/fnae/400/300",
+    "title": "Five Nights At Epsteins",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxZVJII3-Y53SoLww-ZvlOrYMy-xYy5uBYg&s",
     "iframeUrl": "https://harshulsilverspoon.github.io/FNAE-HTML5-1.2.3/index.html",
     "category": "Horror"
   },
   {
     "id": "2",
-    "title": "FNAF 1 HD",
-    "thumbnail": "https://picsum.photos/seed/fnaf1/400/300",
+    "title": "FNAF 1",
+    "thumbnail": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_FiveNightsAtFreddys_image1600w.jpg",
     "iframeUrl": "https://irv77.github.io/hd_fnaf/1/",
     "category": "Horror"
   },
   {
     "id": "3",
-    "title": "FNAF 2 HD",
-    "thumbnail": "https://picsum.photos/seed/fnaf2/400/300",
+    "title": "FNAF 2",
+    "thumbnail": "https://m.media-amazon.com/images/I/81R3njc3FFL.jpg",
     "iframeUrl": "https://irv77.github.io/hd_fnaf/2/",
     "category": "Horror"
   },
   {
     "id": "4",
-    "title": "FNAF 3 HD",
-    "thumbnail": "https://picsum.photos/seed/fnaf3/400/300",
+    "title": "FNAF 3",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEbz5FgiqbolmqmEHa358sb2tCQitCM_Em6A&s",
     "iframeUrl": "https://irv77.github.io/hd_fnaf/3/",
     "category": "Horror"
   },
   {
     "id": "5",
-    "title": "FNAF 4 HD",
-    "thumbnail": "https://picsum.photos/seed/fnaf4/400/300",
+    "title": "FNAF 4",
+    "thumbnail": "https://m.media-amazon.com/images/I/81AE4nV6jgL.png",
     "iframeUrl": "https://irv77.github.io/hd_fnaf/4/",
     "category": "Horror"
   },
   {
     "id": "6",
     "title": "FNAF Sister Location",
-    "thumbnail": "https://picsum.photos/seed/fnafsl/400/300",
+    "thumbnail": "https://static.wikia.nocookie.net/fivenightsatfreddys/images/c/c4/SLIcon.jpg/revision/latest?cb=20180814164255",
     "iframeUrl": "https://genizymath.github.io/iframe/191.html",
     "category": "Horror"
   },
   {
     "id": "7",
-    "title": "FNAF UCN HD",
-    "thumbnail": "https://picsum.photos/seed/fnafucn/400/300",
+    "title": "FNAF UCN",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJL3ZKp4po1dsirJLWJ0FO0iA_5ylX3vbhjw&s",
     "iframeUrl": "https://irv77.github.io/hd_fnaf/ucn/",
     "category": "Horror"
   },
   {
     "id": "8",
     "title": "Ultrakill",
-    "thumbnail": "https://picsum.photos/seed/ultrakill/400/300",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Ultrakill_cover.png/250px-Ultrakill_cover.png",
     "iframeUrl": "https://harshulsilverspoon.github.io/ultrakill",
     "category": "Action"
   },
   {
     "id": "9",
-    "title": "Sans Fight",
-    "thumbnail": "https://picsum.photos/seed/sans/400/300",
+    "title": "Undertale",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115",
     "iframeUrl": "https://jcw87.github.io/c2-sans-fight/",
     "category": "Action"
   },
   {
     "id": "10",
     "title": "Deltarune",
-    "thumbnail": "https://picsum.photos/seed/deltarune/400/300",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Deltarune_vector_logo.svg/960px-Deltarune_vector_logo.svg.png",
     "iframeUrl": "https://vocalnutria9174.github.io/deltarune_web/",
     "category": "RPG"
   },
   {
     "id": "11",
     "title": "Friday Night Funkin' Week 7",
-    "thumbnail": "https://picsum.photos/seed/fnf/400/300",
+    "thumbnail": "https://store-images.s-microsoft.com/image/apps.10036.13739416744854706.a91340d7-9996-4620-b612-86ba5b6f7bb0.cd990980-16d8-4508-99ab-e1e9410f2c8f",
     "iframeUrl": "https://fridaynightfunkinweek7.github.io/",
     "category": "Rhythm"
   },
   {
     "id": "12",
-    "title": "Web Osu",
-    "thumbnail": "https://picsum.photos/seed/osu/400/300",
+    "title": "Osu",
+    "thumbnail": "https://assets.ppy.sh/logo-with-background.png",
     "iframeUrl": "https://webosu-2.github.io/",
     "category": "Rhythm"
   },
   {
     "id": "13",
-    "title": "Half-Life (Web)",
-    "thumbnail": "https://picsum.photos/seed/hl/400/300",
+    "title": "Half-Life",
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/capsule_616x353.jpg?t=1745368462",
     "iframeUrl": "https://pixelsuft.github.io/hl/",
     "category": "Action"
   },
   {
     "id": "14",
-    "title": "Geometry Dash (Web)",
-    "thumbnail": "https://picsum.photos/seed/gd/400/300",
+    "title": "REPO",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9lxz.jpg",
     "iframeUrl": "https://map-l.github.io/play/repo/",
     "category": "Arcade"
   },
   {
     "id": "15",
-    "title": "Ampler Launcher",
-    "thumbnail": "https://picsum.photos/seed/ampler/400/300",
+    "title": "Minecraft",
+    "thumbnail": "https://m.media-amazon.com/images/I/81gsSy5r13L.png",
     "iframeUrl": "https://irv77.github.io/AmplerLauncher/",
     "category": "Utility"
   },
   {
     "id": "16",
-    "title": "Subway Surfers NY",
-    "thumbnail": "https://picsum.photos/seed/subway/400/300",
+    "title": "Subway Surfers",
+    "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/9e89c8fe71f2e1179437b6b6d7e3a5a1/subway-surfers.png",
     "iframeUrl": "https://lnahtml.github.io/a8/subway-surfers-newyork/",
     "category": "Arcade"
   },
   {
     "id": "17",
     "title": "Tomb of the Mask",
-    "thumbnail": "https://picsum.photos/seed/tomb/400/300",
+    "thumbnail": "https://play-lh.googleusercontent.com/ATGr-U4JBK2VjFzKGK9eMMkrDxJaazadOUoz_7Yl0U5NrWSFcFUzEtNurWXYzVWc8uOO",
     "iframeUrl": "https://tomb-of-the-mask-online.github.io/file/",
     "category": "Arcade"
   },
   {
     "id": "18",
     "title": "Little Alchemy 2",
-    "thumbnail": "https://picsum.photos/seed/alchemy/400/300",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzSFlpUTcaYg8p4nUrGsga-UAdPPfz2w9ew&s",
     "iframeUrl": "https://gamingshitposting.github.io/ext-bin-1/littlealchemy2.com/index.html",
     "category": "Puzzle"
   },
   {
     "id": "19",
     "title": "Operius",
-    "thumbnail": "https://picsum.photos/seed/operius/400/300",
+    "thumbnail": "https://img.itch.zone/aW1nLzIxNzc5ODQ3LnBuZw==/508x254%23mb/h%2B6Zem.png",
     "iframeUrl": "https://bitfexl.github.io/operius/",
     "category": "Arcade"
   }

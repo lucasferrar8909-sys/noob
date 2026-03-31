@@ -36,18 +36,18 @@ function renderGames(games) {
         noResults.classList.add('hidden');
         games.forEach(game => {
             const card = document.createElement('div');
-            card.className = 'brutal-border bg-zinc-900 cursor-pointer group overflow-hidden';
+            card.className = 'brutal-border bg-zinc-900 cursor-pointer group overflow-hidden break-inside-avoid mb-8';
             card.innerHTML = `
-                <div class="aspect-video relative overflow-hidden">
-                    <img src="${game.thumbnail}" alt="${game.title}" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 group-hover:scale-110" referrerpolicy="no-referrer">
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                <div class="relative overflow-hidden">
+                    <img src="${game.thumbnail}" alt="${game.title}" class="w-full h-auto transition-all duration-500 group-hover:scale-110" referrerpolicy="no-referrer">
+                    <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
                         <span class="brutal-btn">PLAY NOW</span>
                     </div>
                 </div>
-                <div class="p-4 border-t-2 border-white">
+                <div class="p-4 border-t-2 border-[#00ffff] bg-black/50">
                     <div class="flex justify-between items-start mb-1">
-                        <h3 class="font-bold text-xl uppercase truncate pr-2">${game.title}</h3>
-                        <span class="text-[10px] font-mono bg-white text-black px-1 leading-tight">${game.category}</span>
+                        <h3 class="font-bold text-xl uppercase truncate pr-2 text-[#00ffff] neon-text">${game.title}</h3>
+                        <span class="text-[10px] font-mono bg-[#00ffff] text-black px-1 leading-tight font-bold shadow-[0_0_5px_#00ffff]">${game.category}</span>
                     </div>
                 </div>
             `;
