@@ -1,0 +1,39 @@
+.brutal-border {
+    border: 2px solid #ffffff;
+    box-shadow: 4px 4px 0px #ffffff;
+    transition: all 0.1s ease;
+}
+
+.brutal-border:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0px #00ff00;
+    border-color: #00ff00;
+}
+
+.brutal-btn {
+    background: #ffffff;
+    color: #0a0a0a;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border: 2px solid #ffffff;
+    box-shadow: 4px 4px 0px #00ff00;
+    transition: all 0.1s ease;
+    cursor: pointer;
+}
+
+.brutal-btn:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0px #ffffff;
+}
+
+.brutal-btn:active {
+    transform: translate(2px, 2px);
+    box-shadow: 0px 0px 0px #ffffff;
+}
+
+#modalContent.fullscreen {
+    max-width: none;
+    width: 100vw;
+    height: 100vh;
+    border: none;
+}
