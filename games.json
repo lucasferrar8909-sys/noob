@@ -1,65 +1,135 @@
 [
   {
     "id": "1",
-    "title": "2048",
-    "thumbnail": "https://picsum.photos/seed/2048/400/300",
-    "iframeUrl": "https://play2048.co/",
-    "category": "Puzzle"
+    "title": "FNAE HTML5",
+    "thumbnail": "https://picsum.photos/seed/fnae/400/300",
+    "iframeUrl": "https://harshulsilverspoon.github.io/FNAE-HTML5-1.2.3/index.html",
+    "category": "Horror"
   },
   {
     "id": "2",
-    "title": "Hextris",
-    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
-    "iframeUrl": "https://hextris.io/",
-    "category": "Arcade"
+    "title": "FNAF 1 HD",
+    "thumbnail": "https://picsum.photos/seed/fnaf1/400/300",
+    "iframeUrl": "https://irv77.github.io/hd_fnaf/1/",
+    "category": "Horror"
   },
   {
     "id": "3",
-    "title": "Doodle Jump",
-    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
-    "iframeUrl": "https://doodlejump.io/",
-    "category": "Platformer"
+    "title": "FNAF 2 HD",
+    "thumbnail": "https://picsum.photos/seed/fnaf2/400/300",
+    "iframeUrl": "https://irv77.github.io/hd_fnaf/2/",
+    "category": "Horror"
   },
   {
     "id": "4",
-    "title": "Slope",
-    "thumbnail": "https://picsum.photos/seed/slope/400/300",
-    "iframeUrl": "https://slopegame.io/",
-    "category": "Action"
+    "title": "FNAF 3 HD",
+    "thumbnail": "https://picsum.photos/seed/fnaf3/400/300",
+    "iframeUrl": "https://irv77.github.io/hd_fnaf/3/",
+    "category": "Horror"
   },
   {
     "id": "5",
-    "title": "Flappy Bird",
-    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
-    "iframeUrl": "https://flappybird.io/",
-    "category": "Arcade"
+    "title": "FNAF 4 HD",
+    "thumbnail": "https://picsum.photos/seed/fnaf4/400/300",
+    "iframeUrl": "https://irv77.github.io/hd_fnaf/4/",
+    "category": "Horror"
   },
   {
     "id": "6",
-    "title": "Tetris",
-    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
-    "iframeUrl": "https://tetris.com/play-tetris",
-    "category": "Puzzle"
+    "title": "FNAF Sister Location",
+    "thumbnail": "https://picsum.photos/seed/fnafsl/400/300",
+    "iframeUrl": "https://genizymath.github.io/iframe/191.html",
+    "category": "Horror"
   },
   {
     "id": "7",
-    "title": "Pac-Man",
-    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
-    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
-    "category": "Classic"
+    "title": "FNAF UCN HD",
+    "thumbnail": "https://picsum.photos/seed/fnafucn/400/300",
+    "iframeUrl": "https://irv77.github.io/hd_fnaf/ucn/",
+    "category": "Horror"
   },
   {
     "id": "8",
-    "title": "Snake",
-    "thumbnail": "https://picsum.photos/seed/snake/400/300",
-    "iframeUrl": "https://www.google.com/logos/2010/snake.html",
-    "category": "Classic"
+    "title": "Ultrakill",
+    "thumbnail": "https://picsum.photos/seed/ultrakill/400/300",
+    "iframeUrl": "https://harshulsilverspoon.github.io/ultrakill",
+    "category": "Action"
   },
   {
     "id": "9",
-    "title": "Cookie Clicker",
-    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
-    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
-    "category": "Idle"
+    "title": "Sans Fight",
+    "thumbnail": "https://picsum.photos/seed/sans/400/300",
+    "iframeUrl": "https://jcw87.github.io/c2-sans-fight/",
+    "category": "Action"
+  },
+  {
+    "id": "10",
+    "title": "Deltarune",
+    "thumbnail": "https://picsum.photos/seed/deltarune/400/300",
+    "iframeUrl": "https://vocalnutria9174.github.io/deltarune_web/",
+    "category": "RPG"
+  },
+  {
+    "id": "11",
+    "title": "Friday Night Funkin' Week 7",
+    "thumbnail": "https://picsum.photos/seed/fnf/400/300",
+    "iframeUrl": "https://fridaynightfunkinweek7.github.io/",
+    "category": "Rhythm"
+  },
+  {
+    "id": "12",
+    "title": "Web Osu",
+    "thumbnail": "https://picsum.photos/seed/osu/400/300",
+    "iframeUrl": "https://webosu-2.github.io/",
+    "category": "Rhythm"
+  },
+  {
+    "id": "13",
+    "title": "Half-Life (Web)",
+    "thumbnail": "https://picsum.photos/seed/hl/400/300",
+    "iframeUrl": "https://pixelsuft.github.io/hl/",
+    "category": "Action"
+  },
+  {
+    "id": "14",
+    "title": "Geometry Dash (Web)",
+    "thumbnail": "https://picsum.photos/seed/gd/400/300",
+    "iframeUrl": "https://map-l.github.io/play/repo/",
+    "category": "Arcade"
+  },
+  {
+    "id": "15",
+    "title": "Ampler Launcher",
+    "thumbnail": "https://picsum.photos/seed/ampler/400/300",
+    "iframeUrl": "https://irv77.github.io/AmplerLauncher/",
+    "category": "Utility"
+  },
+  {
+    "id": "16",
+    "title": "Subway Surfers NY",
+    "thumbnail": "https://picsum.photos/seed/subway/400/300",
+    "iframeUrl": "https://lnahtml.github.io/a8/subway-surfers-newyork/",
+    "category": "Arcade"
+  },
+  {
+    "id": "17",
+    "title": "Tomb of the Mask",
+    "thumbnail": "https://picsum.photos/seed/tomb/400/300",
+    "iframeUrl": "https://tomb-of-the-mask-online.github.io/file/",
+    "category": "Arcade"
+  },
+  {
+    "id": "18",
+    "title": "Little Alchemy 2",
+    "thumbnail": "https://picsum.photos/seed/alchemy/400/300",
+    "iframeUrl": "https://gamingshitposting.github.io/ext-bin-1/littlealchemy2.com/index.html",
+    "category": "Puzzle"
+  },
+  {
+    "id": "19",
+    "title": "Operius",
+    "thumbnail": "https://picsum.photos/seed/operius/400/300",
+    "iframeUrl": "https://bitfexl.github.io/operius/",
+    "category": "Arcade"
   }
 ]
